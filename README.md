@@ -14,7 +14,7 @@ listado_tabla.html - Listado en Tabla
 
   Tabla con todos los items del catálogo
   
-  Columnas: Nombre, Tipo, Calificacion promedio
+  Columnas: Nombre, Tipo, Calificacion promedio, fecha creacion
 
 listado_box.html - Listado en Cajas
 
